@@ -49,7 +49,7 @@ Main options
 
 ### Screenshot
 
-<img src="https://github.com/Angelmmc/iot-car-frontend-mobile/blob/master/screenshots/app_screen.jpg?raw=true" alt="Control Panel" width="300"/>
+<img src="https://github.com/Angelmmc/iot-car-frontend-mobile/blob/master/assets/screenshots/app_screen.jpg?raw=true" alt="Control Panel" width="300"/>
 
 ## Related
 
