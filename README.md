@@ -1,16 +1,47 @@
-# front_end_iot
+# iot-car-frontend-mobile
 
-A new Flutter project.
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/Angelmmc/iot-car-frontend-mobile.svg)](https://github.com/Angelmmc/iot-car-frontend-mobile/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/Angelmmc/iot-car-frontend-mobile.svg)](https://github.com/Angelmmc/iot-car-frontend-mobile/issues)
 
-## Getting Started
+## About 
+This Flutter-based mobile application serves as the user interface for an IoT-enabled obstacle-avoiding car. It allows users to remotely control the car's movement and monitor actions performed, along with related data such as the author, date, and time — all through a clean and intuitive UI.
 
-This project is a starting point for a Flutter application.
+## Built with
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 
-A few resources to get you started if this is your first Flutter project:
+##  Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Prerequisites
+- Git
+- Flutter SDK 3.x
+- Android Studio 
+- Emulator or device
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+###  Installation
+
+1. Clone the repository
+```bash
+git clone https://github.com/Angelmmc/iot-car-frontend-mobile.git
+```
+2. Navigate to the project folder
+```bash
+cd iot-car-front-end-mobile
+```
+
+3. Install dependencies
+```bash
+flutter pub get
+```
+
+4. Run the app
+```bash
+flutter run
+```
+
+## Related
+
+Check out the related repositories for my iot-car project.
+
+[![iot-car-backend](https://img.shields.io/badge/iot__car-arduino-blue?logo=github)](https://github.com/Angelmmc/iot-car-arduino)
+
