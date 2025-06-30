@@ -52,7 +52,7 @@ Main options
 <img src="https://github.com/Angelmmc/iot-car-frontend-mobile/blob/master/assets/icon/screenshots/app_screen.jpg" alt="App Screen" width="300"/>
 
 ## License
-Distributed under the MIT License. See LICENSE.txt for more information.
+Distributed under the MIT License. See LICENSE for more information.
 
 ## Related
 
