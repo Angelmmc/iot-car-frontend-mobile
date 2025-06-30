@@ -55,5 +55,6 @@ Main options
 
 Check out the related repositories for my iot-car project.
 
-[![iot-car-backend](https://img.shields.io/badge/iot__car-arduino-blue?logo=github)](https://github.com/Angelmmc/iot-car-arduino)
+[![iot-car-arduino](https://img.shields.io/badge/iot__car-arduino-D68FD6?logo=github)](https://github.com/Angelmmc/iot-car-arduino)
+[![iot-car-webapp](https://img.shields.io/badge/iot__car-webapp-05F140?logo=github)](https://github.com/Angelmmc/iot-car-webapp)
 
