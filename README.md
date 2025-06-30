@@ -38,7 +38,7 @@ flutter pub get
 ```bash
 flutter run
 ```
-### Usage
+## Usage
 
 In order to use the app, first write a name on the text input.
 
@@ -47,9 +47,12 @@ Main options
 - **Status Monitor**: View real-time data including executed actions, timestamps, and the user who initiated them. The data refreshes automatically every 5 seconds, but you can tap the floating button to refresh it manually.
 - **Modify Query Button**: Toggle the Status Monitor between showing only the most recent action or the last ten actions.
 
-### Screenshot
+## Screenshot
 
 <img src="https://github.com/Angelmmc/iot-car-frontend-mobile/blob/master/assets/icon/screenshots/app_screen.jpg" alt="App Screen" width="300"/>
+
+## License
+Distributed under the MIT License. See LICENSE.txt for more information.
 
 ## Related
 
