@@ -26,7 +26,7 @@ git clone https://github.com/Angelmmc/iot-car-frontend-mobile.git
 ```
 2. Navigate to the project folder
 ```bash
-cd iot-car-front-end-mobile
+cd iot-car-frontend-mobile
 ```
 
 3. Install dependencies
